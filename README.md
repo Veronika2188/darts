@@ -9,4 +9,9 @@ Today I figured out how the structure of a simple (or maybe not so simple) app l
 Today I started to read the DartBook. Currently I read the first chapter about built-in types in dart. I've read about number types (int, double), strings and methods of work with them, bool, lists and how to work with them, and now I'm reading about Records.
 
 2024-02-13
+
 Today I've read the first chapter and wrote summary, using following questions. I still have questions about Final & Late, Dynamic & Object, that question about the most appropriate data type (seems like I've understood it now, don't need to ask anymore, 'll do it tomorrow morning on my own). I need to finish the question about null-safety.
+
+2024-02-15
+
+Today I started to do tasks with strings. I want to go quickly through the tasks with lists, maps and sets and start the second chapter about operators, pattern matching and control structures.

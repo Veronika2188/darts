@@ -110,4 +110,42 @@ Named fields:
     |     (value) => 'k', // new value
     | );
 
+12. Dynamic allows the developer to assign values to one variable completely different data types, if necessary.
+
+13. Dynamic vs Object
+
 14. Final is used when you need variables that cannot be reassigned but can be computed at runtime. Const is used for values that might be computed at compile time; const is immutable.
+
+15. final vs late
+
+In Dart, we use the late keyword to declare variables that will be initialized later. These are called non-nullable variables as they are initialized after the declaration. Hence, we use the late keyword.
+
+    | class Person {
+    | late String name;
+    | }
+    | 
+    | void main() {
+    |     Person person = Person();
+    |     person.name = "Maria Elijah";
+    | 
+    |     print(person.name);
+    | }
+
+16. With null safety, all types default to non-nullable. For example, if you have a variable of type String, it always contains a string.
+
+To allow a variable of type String to accept any string or the value null, add a question mark (?) after the type name. This changes the type of variable to a nullable type. For example, a variable of type String? can contain a string, or it can be null.
+
+If you're sure an expression with a nullable type doesn't equal null, you can use the non-null assertion operator (!) to make Dart treat it as non-nullable. By adding ! after the expression, you assert two conditions to Dart about the expression: its value doesn't equal null; Dart can assign the value to a non-nullable variable.
+
+
+17. There are 2 types of comments: single-line and multi-line. Single-line comments are written with the // symbol. Multi-line comments are written with the /* and */ symbols.
+
+18. The rules of declaration of variables, functions, classes and methods in Dart are as follows:
+
+- for variables,  functions  and  methods  names  are  written  in camelCase; for classes names are written in UpperCamelCase;
+- it's  not  allowed  to  use  number values  at the  beginning  of  the  name;
+- Register of characters in Dart is case sensitive; for example, var CHECK = 10; and var check = 10; are different variables;
+- it's  not  allowed  to  use  Dart  reserved  words  as  names;
+- if the name starts with '_' then it's a private name.
+
+
