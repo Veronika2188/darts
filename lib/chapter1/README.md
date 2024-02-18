@@ -1,4 +1,4 @@
-# Chapter 1 Summary
+# Chapter 1 Summary. Built-in types in Dart
 
 1. Dart was positioned as a language developed to replace JavaScript.
 2. Dart compiler uses 2 platforms: native and web.

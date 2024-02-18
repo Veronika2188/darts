@@ -15,3 +15,8 @@ Today I've read the first chapter and wrote summary, using following questions. 
 2024-02-15
 
 Today I started to do tasks with strings. I want to go quickly through the tasks with lists, maps and sets and start the second chapter about operators, pattern matching and control structures.
+
+2024-02-18
+
+Today I learned about pattern-matching and destructing. Destructing is a way to extract data from an object.
+A pattern always tests against a value to determine if the value has the form you expect. In other words, you are checking if the value matches the pattern. When an object and pattern match, the pattern can then access the object's data and extract it in parts. In other words, the pattern destructures the object.
