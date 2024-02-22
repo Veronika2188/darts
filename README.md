@@ -20,3 +20,17 @@ Today I started to do tasks with strings. I want to go quickly through the tasks
 
 Today I learned about pattern-matching and destructing. Destructing is a way to extract data from an object.
 A pattern always tests against a value to determine if the value has the form you expect. In other words, you are checking if the value matches the pattern. When an object and pattern match, the pattern can then access the object's data and extract it in parts. In other words, the pattern destructures the object.
+
+2024-02-20
+
+Today I started to read the second chapter, that is about functions, libraries and testing. The author starts the chapter with talking about abstractions in general and considering what it means. Then he goes talking about what every programming language consists of...
+
+2024-02-22
+
+...and the he eventually goes to functions. He talks about what functions are by themselves, about how to declare them and how to use them, then he talks about declaring entering arguments of a function. There are the next types of arguments: positional; named(wrapped in {}); optional(wrapped in []) and combinations of these.
+
+Then he talks about a call to a function through the variable, and then about a function itself like an argument of another function.
+
+Further in the chapter he introduces a type alias (often called a typedef because it's declared with the keyword typedef), that is is a concise way to refer to a type.
+
+Then starts the paragraph about the lambda functions and the arrow functions.
