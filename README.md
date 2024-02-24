@@ -34,3 +34,7 @@ Then he talks about a call to a function through the variable, and then about a 
 Further in the chapter he introduces a type alias (often called a typedef because it's declared with the keyword typedef), that is is a concise way to refer to a type.
 
 Then starts the paragraph about the lambda functions and the arrow functions.
+
+2024-02-24
+
+We talked about closures, and in case of this theme we discussed lambda functions and how they appeared, the levels of ierarchy, OOP and Functional Programming. It all started with a joke about the closure being an object for poor people and then it became a real topic.
