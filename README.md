@@ -38,3 +38,9 @@ Then starts the paragraph about the lambda functions and the arrow functions.
 2024-02-24
 
 We talked about closures, and in case of this theme we discussed lambda functions and how they appeared, the levels of ierarchy, OOP and Functional Programming. It all started with a joke about the closure being an object for poor people and then it became a real topic.
+
+2024-02-25
+
+Today we discussed closures (and examples of using them)and recursion, and then we watched a video about the lazy evaluation (it called "I programmed in TypeScript like in Haskell").
+
+Then I started to read about generators and at the moment I came across the sync and async generator function I understood that I should pay more attention to it when I reach the sixth chapter about async programming.
